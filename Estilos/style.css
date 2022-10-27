@@ -95,11 +95,11 @@ selection >p{
     padding-bottom: 2em;
 }
 #fundo001{
-    background-image: url(imagens/background001.jpg);
+    background-image: url(../imagens/background001.jpg);
     background-position: right center;
 }
 #fundo002{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(../imagens/background002.jpg);
     background-position: center center;
 }
 
