@@ -99,7 +99,7 @@ selection >p{
     background-position: right center;
 }
 #fundo002{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url('../imagens/background002.jpg');
     background-position: center center;
 }
 
